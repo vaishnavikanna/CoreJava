@@ -1,2 +1,2 @@
 # CoreJava
-Core java conept programs
+Core java concept programs
